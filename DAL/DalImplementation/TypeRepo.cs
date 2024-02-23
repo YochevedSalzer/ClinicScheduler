@@ -8,18 +8,18 @@ using System.Threading.Tasks;
 
 namespace DAL.DalImplementation
 {
-    public class TypeRepo :IType
+    public class TypeRepo :IDoctorType
     {
         ClinicContext Context { get; set; }
         public TypeRepo(ClinicContext context)
         {
             Context = context;
         }
-        public Do.Type Add(Do.Type type)
+        public Do.DoctorType Add(Do.DoctorType type)
         {
-            if (Context.Types.Find(type) != null)
+            if (Context.DoctorTypes.Find(type) != null)
             {
-                Context.Types.Add(type);
+                Context.DoctorTypes.Add(type);
                 Context.SaveChanges();
                 return type;
             }

@@ -54,3 +54,31 @@ C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\refint\
 C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
 C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
 C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+D:\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll

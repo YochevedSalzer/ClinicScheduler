@@ -2883,25 +2883,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ברלין שולמית\\.nuget\\packages\\": {},
+    "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\Web API\\Web API.csproj",
+      "projectUniqueName": "D:\\serverSide\\Web API\\Web API.csproj",
       "projectName": "Web API",
-      "projectPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\Web API\\Web API.csproj",
-      "packagesPath": "C:\\Users\\ברלין שולמית\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\Web API\\obj\\",
+      "projectPath": "D:\\serverSide\\Web API\\Web API.csproj",
+      "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
+      "outputPath": "D:\\serverSide\\Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ברלין שולמית\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2910,14 +2910,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\BL\\BL.csproj": {
-              "projectPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\BL\\BL.csproj"
+            "D:\\serverSide\\BL\\BL.csproj": {
+              "projectPath": "D:\\serverSide\\BL\\BL.csproj"
             }
           }
         }
@@ -2958,7 +2959,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

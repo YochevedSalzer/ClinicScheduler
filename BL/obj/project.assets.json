@@ -2635,25 +2635,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ברלין שולמית\\.nuget\\packages\\": {},
+    "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\BL\\BL.csproj",
+      "projectUniqueName": "D:\\serverSide\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\BL\\BL.csproj",
-      "packagesPath": "C:\\Users\\ברלין שולמית\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\BL\\obj\\",
+      "projectPath": "D:\\serverSide\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
+      "outputPath": "D:\\serverSide\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ברלין שולמית\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2668,8 +2668,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\ברלין שולמית\\Desktop\\serverSide\\DAL\\DAL.csproj"
+            "D:\\serverSide\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\serverSide\\DAL\\DAL.csproj"
             }
           }
         }
@@ -2699,7 +2699,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,7 +5,9 @@ namespace DAL.Do;
 
 public partial class Doctor
 {
-    public int Id { get; set; }
+    public int Code { get; set; }
+
+    public string Id { get; set; } = null!;
 
     public string FirstName { get; set; } = null!;
 
@@ -17,5 +19,5 @@ public partial class Doctor
 
     public int DoctorType { get; set; }
 
-    public virtual Type DoctorTypeNavigation { get; set; } = null!;
+    public virtual DoctorType DoctorTypeNavigation { get; set; } = null!;
 }

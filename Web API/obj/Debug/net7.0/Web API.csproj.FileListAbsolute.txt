@@ -294,3 +294,151 @@ C:\Users\ברלין שולמית\Desktop\serverSide\Web API\obj\Debug\net7.0\ref
 C:\Users\ברלין שולמית\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.pdb
 C:\Users\ברלין שולמית\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
 C:\Users\ברלין שולמית\Desktop\serverSide\Web API\obj\Debug\net7.0\ref\Web API.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\appsettings.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Web API.exe
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Web API.deps.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Web API.runtimeconfig.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Web API.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Web API.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Humanizer.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\BL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\BL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.CopyComplete
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\refint\Web API.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\Web API\obj\Debug\net7.0\ref\Web API.dll
+D:\serverSide\Web API\bin\Debug\net7.0\appsettings.Development.json
+D:\serverSide\Web API\bin\Debug\net7.0\appsettings.json
+D:\serverSide\Web API\bin\Debug\net7.0\Web API.exe
+D:\serverSide\Web API\bin\Debug\net7.0\Web API.deps.json
+D:\serverSide\Web API\bin\Debug\net7.0\Web API.runtimeconfig.json
+D:\serverSide\Web API\bin\Debug\net7.0\Web API.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Web API.pdb
+D:\serverSide\Web API\bin\Debug\net7.0\Azure.Core.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Azure.Identity.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Humanizer.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\serverSide\Web API\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.CodeDom.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Memory.Data.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\serverSide\Web API\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\serverSide\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\serverSide\Web API\bin\Debug\net7.0\BL.dll
+D:\serverSide\Web API\bin\Debug\net7.0\DAL.dll
+D:\serverSide\Web API\bin\Debug\net7.0\BL.pdb
+D:\serverSide\Web API\bin\Debug\net7.0\DAL.pdb
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets.pack.json
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets.build.json
+D:\serverSide\Web API\obj\Debug\net7.0\staticwebassets.development.json
+D:\serverSide\Web API\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.csproj.CopyComplete
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.dll
+D:\serverSide\Web API\obj\Debug\net7.0\refint\Web API.dll
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.pdb
+D:\serverSide\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+D:\serverSide\Web API\obj\Debug\net7.0\ref\Web API.dll

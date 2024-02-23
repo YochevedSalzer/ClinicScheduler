@@ -5,7 +5,7 @@ namespace DAL.Do;
 
 public partial class Patient
 {
-    public int Id { get; set; }
+    public int Code { get; set; }
 
     public string PatientId { get; set; } = null!;
 

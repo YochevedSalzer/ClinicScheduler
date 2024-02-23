@@ -1,6 +1,7 @@
 ﻿using BL.BlApi;
 using BL.BlImplementation;
 using DAL;
+using DAL.Do;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System;
@@ -33,6 +34,7 @@ namespace BL
             ServiceProvider provider = services.BuildServiceProvider();  // מנהל את האוסף, כאשר משהו מבקש אוביקט הוא אחראי לתת
 
             Doctors = provider.GetRequiredService<IDoctor>(); // new DoctorRepo();
+            //Patients = provider.GetRequiredService<IPatient>();
 
 
         }

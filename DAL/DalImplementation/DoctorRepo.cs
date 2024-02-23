@@ -32,6 +32,7 @@ namespace DAL.DalImplementation
 
         public List<Doctor> GetAll()
         {
+            
             List<Doctor> result = Context.Doctors.ToList();
             return result;
         }
