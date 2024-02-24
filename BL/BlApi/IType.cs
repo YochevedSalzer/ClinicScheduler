@@ -9,10 +9,10 @@ namespace BL.BlApi
 {
     public interface IType
     {
-        List<Bo.Type> GetAll();
-        Bo.Type Get(int id);
-        Bo.Type Add(Bo.Type doctorType);
-        Bo.Type Update(Bo.Type doctorType);
-        Bo.Type Delete(int id);
+        List<Bo.DoctorType> GetAll();
+        Bo.DoctorType Get(int id);
+        Bo.DoctorType Add(Bo.DoctorType doctorType);
+        Bo.DoctorType Update(Bo.DoctorType doctorType);
+        Bo.DoctorType Delete(int id);
     }
 }

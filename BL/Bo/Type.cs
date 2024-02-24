@@ -3,15 +3,16 @@ using System.Collections.Generic;
 
 namespace BL.Bo;
 
-public partial class Type
+public class DoctorType
 {
-    public Type(string DoctorType)
+    public string DType { get; set; } = null!;
+    public DoctorType(string DType)
     {
-        this.DoctorType = DoctorType; 
+        this.DType = DType; 
     }
     //public int Id { get; set; }
 
-    public string DoctorType { get; set; } = null!;
+    
 
     //public virtual ICollection<Doctor> Doctors { get; set; } = new List<Doctor>();
 }
