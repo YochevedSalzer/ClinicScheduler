@@ -7,7 +7,7 @@ namespace BL.Bo;
 
 public class Doctor
 {
-    DAL.DalImplementation.DoctorTypeRepo dtype;
+    DAL.DalImplementation.DoctorTypeRepo dtype=new(new ClinicContext());
     //public int Id { get; set; }
     public Doctor(string FirstName, string LastName, int PhoneNumber, string Email, int IntDoctorType)
     {
@@ -17,7 +17,7 @@ public class Doctor
         this.PhoneNumber = PhoneNumber;
         this.Email = Email;
         //DoctorType = DAL.Do.Type.Type1 where DAL.Do.Type.Id.Equals(DoctorType);
-        DoctorType = dtype.GetAll().FirstOrDefault(i=>i.Id== IntDoctorType).Type;
+        DoctorType = dtype.GetAll().FirstOrDefault(i => i.Id == IntDoctorType).Type;
 
 
     }

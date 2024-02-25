@@ -97,3 +97,17 @@ C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
 C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.pdb
 C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
 C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.dll
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.pdb
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.dll
+D:\BEH\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.pdb
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\ref\DAL.dll

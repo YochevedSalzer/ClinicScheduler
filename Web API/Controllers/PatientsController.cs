@@ -10,9 +10,9 @@ namespace Web_API.Controllers
     public class PatientsController : ControllerBase
     {
         IPatient patient;
-        public PatientsController(BLManager  patient)
+        public PatientsController(BLManager  BLpatient)
         {
-            this.patient = patient.Patients ;
+            this.patient = BLpatient.Patients ;
         }
         [HttpGet]
         public IActionResult GetAll()

@@ -34,7 +34,7 @@ namespace BL
             ServiceProvider provider = services.BuildServiceProvider();  // מנהל את האוסף, כאשר משהו מבקש אוביקט הוא אחראי לתת
 
             Doctors = provider.GetRequiredService<IDoctor>(); // new DoctorRepo();
-            //Patients = provider.GetRequiredService<IPatient>();
+            Patients = provider.GetRequiredService<IPatient>();
 
 
         }
