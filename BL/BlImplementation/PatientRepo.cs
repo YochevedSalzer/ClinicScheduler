@@ -5,16 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using BL.BlApi;
 using BL.Bo;
+using DAL;
 using DAL.Do;
 
 namespace BL.BlImplementation;
 
 public class PatientRepo : IPatient
 {
-    DAL.DalImplementation.PatientRepo Patient { get; set; }
-    public PatientRepo(DAL.DalImplementation.PatientRepo patient)
+    DAL.DalApi.IPatient Patient { get; set; }
+    public PatientRepo(DalManager dalManager)
     {
-        Patient = patient;
+        Patient = dalManager.Patients;
     }
 
      public List<Bo.Patient> GetAll()

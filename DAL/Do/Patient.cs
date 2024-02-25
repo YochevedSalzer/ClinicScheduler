@@ -13,7 +13,7 @@ public partial class Patient
 
     public string LastName { get; set; } = null!;
 
-    public int PhoneNumber { get; set; }
+    public string? PhoneNumber { get; set; }
 
     public string Email { get; set; } = null!;
 

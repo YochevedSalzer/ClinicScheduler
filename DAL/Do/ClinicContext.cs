@@ -66,6 +66,7 @@ public partial class ClinicContext : DbContext
             entity.Property(e => e.FirstName).HasMaxLength(50);
             entity.Property(e => e.LastName).HasMaxLength(50);
             entity.Property(e => e.PatientId).HasMaxLength(10);
+            entity.Property(e => e.PhoneNumber).HasMaxLength(50);
         });
 
         OnModelCreatingPartial(modelBuilder);

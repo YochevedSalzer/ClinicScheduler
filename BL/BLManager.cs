@@ -28,12 +28,15 @@ namespace BL
 
             services.AddSingleton<DalManager>();
             services.AddScoped <IDoctor , DoctorRepo>(); // כאן יצרנו אוביקט יחיד מטיפוס מחלקת שרות של רופאים
-            services.AddScoped<IPatient, PatientRepo >();
+            services.AddScoped<IPatient, BL.BlImplementation.PatientRepo >();
 
 
             ServiceProvider provider = services.BuildServiceProvider();  // מנהל את האוסף, כאשר משהו מבקש אוביקט הוא אחראי לתת
 
             Doctors = provider.GetRequiredService<IDoctor>(); // new DoctorRepo();
+            
+            
+            
             Patients = provider.GetRequiredService<IPatient>();
 
 
