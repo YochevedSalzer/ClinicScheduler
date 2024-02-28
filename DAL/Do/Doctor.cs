@@ -19,5 +19,7 @@ public partial class Doctor
 
     public int DoctorType { get; set; }
 
+    public virtual ICollection<Appointment> Appointments { get; set; } = new List<Appointment>();
+
     public virtual DoctorType DoctorTypeNavigation { get; set; } = null!;
 }

@@ -15,6 +15,8 @@ public partial class ClinicContext : DbContext
     {
     }
 
+    public virtual DbSet<Appointment> Appointments { get; set; }
+
     public virtual DbSet<Doctor> Doctors { get; set; }
 
     public virtual DbSet<DoctorType> DoctorTypes { get; set; }
@@ -27,6 +29,24 @@ public partial class ClinicContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
+        modelBuilder.Entity<Appointment>(entity =>
+        {
+            entity.HasKey(e => e.Code).HasName("PK__Appointm__A25C5AA63E5FF67C");
+
+            entity.ToTable("Appointment");
+
+            entity.Property(e => e.AppointmentTime).HasColumnType("datetime");
+
+            entity.HasOne(d => d.DoctorCodeNavigation).WithMany(p => p.Appointments)
+                .HasForeignKey(d => d.DoctorCode)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__Appointme__Docto__5CD6CB2B");
+
+            entity.HasOne(d => d.PatientCodeNavigation).WithMany(p => p.Appointments)
+                .HasForeignKey(d => d.PatientCode)
+                .HasConstraintName("FK__Appointme__Patie__5DCAEF64");
+        });
+
         modelBuilder.Entity<Doctor>(entity =>
         {
             entity.HasKey(e => e.Code).HasName("PK__Doctor__A25C5AA62BF18208");

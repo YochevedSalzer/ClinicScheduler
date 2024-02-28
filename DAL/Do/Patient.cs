@@ -18,4 +18,6 @@ public partial class Patient
     public string Email { get; set; } = null!;
 
     public DateTime BirthDate { get; set; }
+
+    public virtual ICollection<Appointment> Appointments { get; set; } = new List<Appointment>();
 }
