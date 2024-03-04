@@ -23,5 +23,12 @@ namespace Web_API.Controllers
             }
             return BadRequest();
         }
+        [HttpGet("patientId")]
+        public IActionResult Get(int patientId)
+        {
+            if(patient.Get(patientId) != null)
+            { return Ok(patient.Get(patientId));}
+            return BadRequest();
+        }
     }
 }

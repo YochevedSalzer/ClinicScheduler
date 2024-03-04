@@ -31,9 +31,15 @@ public class PatientRepo : IPatient
 
     Bo.Patient IPatient.Get(int id)
     {
-        throw new NotImplementedException();
+        return new Bo.Patient( Patient.Get(id).PatientId, Patient.Get(id).FirstName, Patient.Get(id).LastName, Patient.Get(id).PhoneNumber, Patient.Get(id).Email, Patient.Get(id).BirthDate);
+
     }
 
+    //Bo.Appointment IPatient.GetAppointments(int id)
+    //{
+    //    return new Bo.Patient(Patient.Get(id).PatientId, Patient.Get(id).FirstName, Patient.Get(id).LastName, Patient.Get(id).PhoneNumber, Patient.Get(id).Email, Patient.Get(id).BirthDate);
+
+    //}
     public Bo.Patient Add(Bo.Patient patient)
     {
         throw new NotImplementedException();

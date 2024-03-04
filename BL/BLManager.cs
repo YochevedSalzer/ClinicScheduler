@@ -20,6 +20,7 @@ namespace BL
     {
         public IDoctor Doctors { get; }// = new DoctorRepo(); // אמור לתת שרות שנותנת שכבת הביאל לישות דוקטור
         public IPatient Patients { get; }
+        public IAppointment Appointments { get; }
 
         public BLManager()
         {
@@ -29,7 +30,7 @@ namespace BL
             services.AddSingleton<DalManager>();
             services.AddScoped <IDoctor , DoctorRepo>(); // כאן יצרנו אוביקט יחיד מטיפוס מחלקת שרות של רופאים
             services.AddScoped<IPatient, BL.BlImplementation.PatientRepo >();
-
+            services.AddScoped<IAppointment, BL.BlImplementation.AppointmentRepo>();
 
             ServiceProvider provider = services.BuildServiceProvider();  // מנהל את האוסף, כאשר משהו מבקש אוביקט הוא אחראי לתת
 
@@ -38,7 +39,7 @@ namespace BL
             
             
             Patients = provider.GetRequiredService<IPatient>();
-
+            Appointments = provider.GetRequiredService<IAppointment>();
 
         }
     }

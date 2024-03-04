@@ -14,18 +14,21 @@ namespace DAL
     {
         public IDoctor Doctors { get; set; }
         public IPatient Patients { get; set; }
+        public IAppointment Appointments { get; set; }
         public DalManager()
         {
             ServiceCollection services=new ServiceCollection();
 
             services.AddSingleton<ClinicContext>();
             services.AddScoped<IDoctor, DoctorRepo>();
-            services.AddScoped<IPatient, PatientRepo>();    
+            services.AddScoped<IPatient, PatientRepo>();
+            services.AddScoped<IAppointment, AppointmentRepo>();
 
             ServiceProvider servicesProvider = services.BuildServiceProvider();
 
             Doctors=servicesProvider.GetRequiredService<IDoctor>();
             Patients = servicesProvider.GetRequiredService<IPatient>();
+            Appointments=servicesProvider.GetRequiredService<IAppointment>();
         }
     }
 }

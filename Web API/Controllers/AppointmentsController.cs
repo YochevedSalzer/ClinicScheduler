@@ -7,14 +7,14 @@ namespace Web_API.Controllers
     [ApiController]
     public class AppointmentsController : ControllerBase
     {
-        [HttpGet("DoctorCode")]
-        public IActionResult GetAll()
-        {
-            if (doctor.GetAll() != null)
-            {
-                return Ok(doctor.GetAll());
-            }
-            return BadRequest();
-        }
+        //[HttpGet("DoctorCode")]
+        //public IActionResult GetAll()
+        //{
+        //    if (doctor.GetAll() != null)
+        //    {
+        //        return Ok(doctor.GetAll());
+        //    }
+        //    return BadRequest();
+        //}
     }
 }

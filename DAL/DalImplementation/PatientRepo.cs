@@ -43,6 +43,10 @@ namespace DAL.DalImplementation
             return Context.Patients.Find(id);
         }
 
+        public List<Appointment> GetAppointments(int id)
+        {
+            return Get(id).Appointments.ToList();
+        }
         public List<Patient> GetAll()
         {
             List<Patient> result= Context.Patients.ToList();
