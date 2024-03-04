@@ -2884,7 +2884,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\טורנר אסתר\\.nuget\\packages\\": {},
+    "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -2894,7 +2894,7 @@
       "projectUniqueName": "D:\\Project\\DAL\\DAL.csproj",
       "projectName": "DAL",
       "projectPath": "D:\\Project\\DAL\\DAL.csproj",
-      "packagesPath": "C:\\Users\\טורנר אסתר\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
       "outputPath": "D:\\Project\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -2902,7 +2902,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\טורנר אסתר\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

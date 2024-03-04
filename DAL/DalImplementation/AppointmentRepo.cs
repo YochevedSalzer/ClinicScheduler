@@ -3,6 +3,7 @@ using DAL.Do;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Numerics;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -18,11 +19,20 @@ namespace DAL.DalImplementation
 
         public Appointment Get(int id)
         {
-            throw new NotImplementedException();
+            return Context.Appointments.Find();
         }
+        //public List<Appointment> GetAllPatientsAppointments(int patientId)
+        //{
+        //    return Context.Appointments.Select
         public Appointment Add(Appointment obj)
         {
-            throw new NotImplementedException();
+            if (Context.Appointments.FirstOrDefault(a=>a.DoctorCode == obj.DoctorCode && a.AppointmentTime==obj.AppointmentTime) == null)
+            {
+                Context.Appointments.Add(obj);
+                Context.SaveChanges();
+                return obj;
+            }
+            return null;
         }
 
         public Appointment Delete(int id)

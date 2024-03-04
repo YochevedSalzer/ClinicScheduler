@@ -21,6 +21,8 @@ public partial class ClinicContext : DbContext
 
     public virtual DbSet<DoctorType> DoctorTypes { get; set; }
 
+    public virtual DbSet<DoctorsSchedule> DoctorsSchedules { get; set; }
+
     public virtual DbSet<Patient> Patients { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -44,6 +46,7 @@ public partial class ClinicContext : DbContext
 
             entity.HasOne(d => d.PatientCodeNavigation).WithMany(p => p.Appointments)
                 .HasForeignKey(d => d.PatientCode)
+                .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("FK__Appointme__Patie__5DCAEF64");
         });
 
@@ -73,6 +76,21 @@ public partial class ClinicContext : DbContext
             entity.Property(e => e.Type)
                 .HasMaxLength(50)
                 .HasColumnName("type");
+        });
+
+        modelBuilder.Entity<DoctorsSchedule>(entity =>
+        {
+            entity.HasKey(e => e.Code).HasName("PK__DoctorsS__A25C5AA6AA335705");
+
+            entity.ToTable("DoctorsSchedule");
+
+            entity.Property(e => e.FinishTime).HasPrecision(0);
+            entity.Property(e => e.StartTime).HasPrecision(0);
+
+            entity.HasOne(d => d.DoctorCodeNavigation).WithMany(p => p.DoctorsSchedules)
+                .HasForeignKey(d => d.DoctorCode)
+                .OnDelete(DeleteBehavior.ClientSetNull)
+                .HasConstraintName("FK__DoctorsSc__Docto__6FE99F9F");
         });
 
         modelBuilder.Entity<Patient>(entity =>

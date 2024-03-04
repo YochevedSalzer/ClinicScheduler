@@ -11,9 +11,9 @@ public partial class Appointment
 
     public DateTime AppointmentTime { get; set; }
 
-    public int? PatientCode { get; set; }
+    public int PatientCode { get; set; }
 
     public virtual Doctor DoctorCodeNavigation { get; set; } = null!;
 
-    public virtual Patient? PatientCodeNavigation { get; set; }
+    public virtual Patient PatientCodeNavigation { get; set; } = null!;
 }

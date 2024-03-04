@@ -2883,7 +2883,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\טורנר אסתר\\.nuget\\packages\\": {},
+    "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -2893,7 +2893,7 @@
       "projectUniqueName": "D:\\Project\\Web API\\Web API.csproj",
       "projectName": "Web API",
       "projectPath": "D:\\Project\\Web API\\Web API.csproj",
-      "packagesPath": "C:\\Users\\טורנר אסתר\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
       "outputPath": "D:\\Project\\Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -2901,7 +2901,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\טורנר אסתר\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
