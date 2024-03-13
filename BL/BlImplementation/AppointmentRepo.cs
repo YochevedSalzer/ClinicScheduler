@@ -1,6 +1,7 @@
 ﻿using BL.BlApi;
 using DAL;
 using DAL.Do;
+using BL.Bo;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -17,27 +18,39 @@ namespace BL.BlImplementation
         {
             this.AppointmentInstance = Instance.Appointments;
         }
-        public Appointment Add(Appointment doctor)
+        public List<Bo.Appointment> GetAll()
+        {
+            List<DAL.Do.Appointment> allAppointments = AppointmentInstance.GetAll();
+            List<Bo.Appointment> BoallAppointments = new List<Bo.Appointment>();
+            //List<DAL.Do.Doctor> allDoctors=
+
+            for (int i = 0; i < allAppointments.Count(); i++)
+            {
+                BoallAppointments.Add(new Bo.Appointment(allAppointments[i].DoctorCode);
+            }
+            return BoallAppointments;
+        }
+
+        public Bo.Appointment Get(int id)
         {
             throw new NotImplementedException();
         }
 
-        public Appointment Delete(int id)
+
+        public List<Bo.Appointment> GetAppointmentsByPatientId(string patientId)
+        {
+            throw new NotImplementedException();
+        }
+        public Bo.Appointment Add(Bo.Appointment obj)
         {
             throw new NotImplementedException();
         }
 
-        public Appointment Get(int id)
+        public Bo.Appointment Delete(int id)
         {
             throw new NotImplementedException();
         }
-
-        public List<Appointment> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Appointment Update(Appointment doctor)
+        public Bo.Appointment Update(Bo.Appointment obj)
         {
             throw new NotImplementedException();
         }

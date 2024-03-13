@@ -28,12 +28,13 @@ namespace DAL.DalImplementation
 
         public DoctorsSchedule Get(int id)
         {
-            throw new NotImplementedException();
+  
+            return Context.DoctorsSchedules.Find(id);
         }
 
         public List<DoctorsSchedule> GetAll()
         {
-            throw new NotImplementedException();
+            return Context.DoctorsSchedules.ToList();
         }
 
         public DoctorsSchedule Update(DoctorsSchedule obj)

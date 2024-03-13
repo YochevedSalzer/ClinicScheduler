@@ -5,11 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using BL.Bo;
 namespace BL.BlApi;
-public interface IPatient
+public interface IPatient : IRepo<Patient>
 {
-    List<Patient> GetAll();
-    Patient Get(int id);
-    Patient Add(Patient patient);
-    Patient Update(Patient patient);
-    Patient Delete(int id);
+    public Patient GetByPatientId(string patientId);
 }

@@ -27,7 +27,7 @@ namespace DAL.DalImplementation
 
         public Doctor Get(int id)
         {
-            return Context.Doctors.Find(id);
+            return Context.Doctors.FirstOrDefault(d => d.Code == id);
         }
 
         public List<Doctor> GetAll()

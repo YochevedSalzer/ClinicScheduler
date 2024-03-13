@@ -7,11 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BL.BlApi;
-public interface IDoctor
+public interface IDoctor:IRepo<Doctor>
 {
-    List<Doctor> GetAll();
-    Doctor Get(int id);
-    Doctor Add(Doctor doctor);
-    Doctor Update(Doctor doctor);
-    Doctor Delete(int id);
+    
 }

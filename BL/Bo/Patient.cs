@@ -6,7 +6,7 @@ namespace BL.Bo;
 public partial class Patient
 {
     //public int Id { get; set; }
-    public Patient(string PatientId, string FirstName, string LastName, string PhoneNumber, string Email, DateTime BirthDate, List<DAL.Do.Appointment> appointments)
+    public Patient(string PatientId, string FirstName, string LastName, string? PhoneNumber, string Email, DateTime BirthDate)
     {
         this.PatientId = PatientId;
         this.FirstName = FirstName;
@@ -15,7 +15,7 @@ public partial class Patient
         this.Email = Email;
         this.BirthDate = DateOnly.FromDateTime(BirthDate);
         Age = DateTime.Now.Year - BirthDate.Year;
-        Appointments = appointments;
+        
     }
     
     public string PatientId { get; set; } = null!;
@@ -30,5 +30,5 @@ public partial class Patient
 
     public DateOnly BirthDate { get; set; }
     public int Age { get; set; }
-    public List<DAL.Do.Appointment> Appointments { get; set; }
+  
 }

@@ -7,6 +7,7 @@ namespace BL.Bo;
 
 public class Doctor
 {
+
     DAL.DalImplementation.DoctorTypeRepo dtype=new(new ClinicContext());
     //public int Id { get; set; }
     public Doctor(string FirstName, string LastName, int PhoneNumber, string Email, int IntDoctorType)

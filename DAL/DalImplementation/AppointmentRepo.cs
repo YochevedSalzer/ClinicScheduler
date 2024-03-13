@@ -16,14 +16,34 @@ namespace DAL.DalImplementation
         {
             Context = context;
         }
-
-        public Appointment Get(int id)
+        public List<Appointment> GetAll()
         {
-            return Context.Appointments.Find();
+            return Context.Appointments.ToList();
         }
-        //public List<Appointment> GetAllPatientsAppointments(int patientId)
-        //{
-        //    return Context.Appointments.Select
+        public Appointment Get(int code)
+        {
+            return Context.Appointments.Find(code);
+        }
+        public List<Appointment> GetAppointmentsByPatientId(string patientId)
+        {
+            int code = Context.Patients.FirstOrDefault(p=>p.PatientId==patientId).Code;
+
+            var result = from appointment in Context.Appointments
+                            where (appointment.PatientCode)==code
+                            select appointment;
+          
+            return result.ToList();
+        }
+        public List<Appointment> GetAllDoctorsAppointments(int doctorId)
+        {
+            int code = Context.Doctors.Find(doctorId).Code;
+
+            var result = from appointment in Context.Appointments
+                         where (appointment.DoctorCode) == code
+                         select appointment;
+
+            return result.ToList();
+        }
         public Appointment Add(Appointment obj)
         {
             if (Context.Appointments.FirstOrDefault(a=>a.DoctorCode == obj.DoctorCode && a.AppointmentTime==obj.AppointmentTime) == null)
@@ -35,19 +55,24 @@ namespace DAL.DalImplementation
             return null;
         }
 
-        public Appointment Delete(int id)
+        public Appointment Delete(int code)
         {
-            throw new NotImplementedException();
-        }
+            var result = Context.Appointments.FirstOrDefault(a => a.Code == code);
+            if (result!=null)
+            {
 
-        public List<Appointment> GetAll()
-        {
-            throw new NotImplementedException();
+                Context.Appointments.Remove(result);
+                Context.SaveChanges();
+                return result;
+            }
+            return null;
         }
 
         public Appointment Update(Appointment obj)
         {
             throw new NotImplementedException();
         }
+
+        
     }
 }

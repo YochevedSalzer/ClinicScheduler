@@ -20,17 +20,17 @@ public class PatientRepo : IPatient
 
     public List<Bo.Patient> GetAll()
     {
-        //List<DAL.Do.Patient> allPatients = Patient.GetAll();
-        //List<Bo.Patient> BoallPatients = new List<Bo.Patient>();
-        //for (int i = 0; i < allPatients.Count(); i++)
-        //{
-        //    BoallPatients.Add(new Bo.Patient(allPatients[i].PatientId, allPatients[i].FirstName, allPatients[i].LastName, allPatients[i].PhoneNumber, allPatients[i].Email, allPatients[i].BirthDate));
-        //}
-        //return BoallPatients;
-        throw new NotImplementedException();
+        List<DAL.Do.Patient> allPatients = Patient.GetAll();
+        List<Bo.Patient> BoallPatients = new List<Bo.Patient>();
+        for (int i = 0; i < allPatients.Count(); i++)
+        {
+            BoallPatients.Add(new Bo.Patient(allPatients[i].PatientId, allPatients[i].FirstName, allPatients[i].LastName, allPatients[i].PhoneNumber, allPatients[i].Email, allPatients[i].BirthDate));
+        }
+        return BoallPatients;
+       
     }
 
-    Bo.Patient IPatient.Get(int id)
+    Bo.Patient Get(int code)
     {
         ///*return new Bo.Patient(Patient.Get(id).PatientId, Patient.Get(id).FirstName, Patient.Get(id).LastName*/, Patient.Get(id).PhoneNumber, Patient.Get(id).Email, Patient.Get(id).BirthDate);
         throw new NotImplementedException();
@@ -51,7 +51,20 @@ public class PatientRepo : IPatient
         throw new NotImplementedException();
     }
 
-    Bo.Patient IPatient.Delete(int id)
+
+    public Bo.Patient GetByPatientId(string patientId, string email)
+    {
+        DAL.Do.Patient patient = Patient.GetByPatientId(patientId);
+        if(patient.Email == email)
+        {
+           return new Bo.Patient(patientId,patient.FirstName, patient.LastName,patient.PhoneNumber, patient.Email, patient.BirthDate);
+        }
+        return null;
+    }
+
+   
+
+    public Bo.Patient Delete(int id)
     {
         throw new NotImplementedException();
     }

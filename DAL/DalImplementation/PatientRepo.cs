@@ -16,6 +16,20 @@ namespace DAL.DalImplementation
         {
             Context = context;
         }
+
+        public List<Patient> GetAll()
+        {
+            List<Patient> result = Context.Patients.ToList();
+            return result;
+        }
+        public Patient GetByPatientId(string patientId)
+        {
+            return Context.Patients.FirstOrDefault(p => p.PatientId == patientId);
+        }
+        public Patient Get(int code)
+        {
+            return Context.Patients.FirstOrDefault(p => p.Code == code);
+        }
         public Patient Add(Patient patient)
         {
             if (Context.Patients.Find(patient) != null)
@@ -38,24 +52,21 @@ namespace DAL.DalImplementation
             return patient;
         }
 
-        public Patient Get(int id)
-        {
-            return Context.Patients.Find(id);
-        }
+       
 
-        public List<Appointment> GetAppointments(int id)
-        {
-            return Get(id).Appointments.ToList();
-        }
-        public List<Patient> GetAll()
-        {
-            List<Patient> result= Context.Patients.ToList();
-            return result;
-        }
+        
+
+        //public List<Appointment> GetAppointments(int id)
+        //{
+        //    return Get(id).Appointments.ToList();
+        //}
+        
 
         public Patient Update(Patient obj)
         {
             throw new NotImplementedException();
         }
+
+       
     }
 }

@@ -9,5 +9,6 @@ namespace DAL.DalApi
 {
     public interface IAppointment: IRepo<Appointment>
     {
+        public Appointment GetAppointmentsByPatientId(string patientId);
     }
 }

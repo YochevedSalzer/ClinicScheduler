@@ -22,6 +22,7 @@ namespace BL
         public IPatient Patients { get; }
         public IAppointment Appointments { get; }
 
+
         public BLManager()
         {
 

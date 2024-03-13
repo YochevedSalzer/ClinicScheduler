@@ -23,11 +23,20 @@ namespace Web_API.Controllers
             }
             return BadRequest();
         }
-        [HttpGet("patientId")]
-        public IActionResult Get(int patientId)
+
+        [HttpGet("patientCode")]
+        public IActionResult Get(int patientCode)
         {
-            if(patient.Get(patientId) != null)
-            { return Ok(patient.Get(patientId));}
+            if(patient.Get(patientCode) != null)
+            { return Ok(patient.Get(patientCode));}
+            return BadRequest();
+        }
+
+        [HttpGet("patientId")]
+        public IActionResult GetByPatientId(string patientId)
+        {
+            if (patient.GetByPatientId(patientId) != null)
+            { return Ok(patient.GetByPatientId(patientId)); }
             return BadRequest();
         }
     }

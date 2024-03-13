@@ -15,5 +15,7 @@ public partial class DoctorsSchedule
 
     public TimeSpan FinishTime { get; set; }
 
+    public int AppointmentDuration { get; set; }
+
     public virtual Doctor DoctorCodeNavigation { get; set; } = null!;
 }
