@@ -32,12 +32,12 @@ namespace Web_API.Controllers
             return BadRequest();
         }
 
-        [HttpGet("patientId")]
-        public IActionResult GetByPatientId(string patientId)
-        {
-            if (patient.GetByPatientId(patientId) != null)
-            { return Ok(patient.GetByPatientId(patientId)); }
-            return BadRequest();
-        }
+        //[HttpGet("patientId")]
+        //public IActionResult GetByPatientId(string patientId)
+        //{
+        //    if (patient.GetByPatientId(patientId,) != null)
+        //    { return Ok(patient.GetByPatientId(patientId)); }
+        //    return BadRequest();
+        //}
     }
 }

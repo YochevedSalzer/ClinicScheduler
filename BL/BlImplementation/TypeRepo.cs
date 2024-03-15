@@ -5,16 +5,17 @@ using System.Text;
 using System.Threading.Tasks;
 using BL.BlApi;
 using BL.Bo;
+using DAL;
 using DAL.DalApi;
 namespace BL.BlImplementation
 {
     public class TypeRepo : IType
     {
-        DAL.DalImplementation.DoctorTypeRepo TypeInstance { get; set;}
+        DAL.DalApi.IDoctorType TypeInstance;
 
-        public TypeRepo(DAL.DalImplementation.DoctorTypeRepo typeInstance)
+        public TypeRepo(DalManager instance)
         {
-            TypeInstance = typeInstance;
+            TypeInstance = instance.DoctorTypes;
         }
 
         public Bo.DoctorType Add(Bo.DoctorType doctorType)

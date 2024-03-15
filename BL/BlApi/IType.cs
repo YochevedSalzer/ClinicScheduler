@@ -7,7 +7,7 @@ using BL.Bo;
 
 namespace BL.BlApi
 {
-    public interface IType : IRepo<Type>
+    public interface IType : IRepo<DoctorType>
     {
         
     }

@@ -30,7 +30,7 @@ public class PatientRepo : IPatient
        
     }
 
-    Bo.Patient Get(int code)
+    public Bo.Patient Get(int code)
     {
         ///*return new Bo.Patient(Patient.Get(id).PatientId, Patient.Get(id).FirstName, Patient.Get(id).LastName*/, Patient.Get(id).PhoneNumber, Patient.Get(id).Email, Patient.Get(id).BirthDate);
         throw new NotImplementedException();

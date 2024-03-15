@@ -22,12 +22,12 @@ namespace BL.BlImplementation
         {
             List<DAL.Do.Appointment> allAppointments = AppointmentInstance.GetAll();
             List<Bo.Appointment> BoallAppointments = new List<Bo.Appointment>();
-            //List<DAL.Do.Doctor> allDoctors=
+            ////List<DAL.Do.Doctor> allDoctors=
 
-            for (int i = 0; i < allAppointments.Count(); i++)
-            {
-                BoallAppointments.Add(new Bo.Appointment(allAppointments[i].DoctorCode);
-            }
+            //for (int i = 0; i < allAppointments.Count(); i++)
+            //{
+            //    BoallAppointments.Add(new Bo.Appointment(allAppointments[i].DoctorCode));
+            //}
             return BoallAppointments;
         }
 
