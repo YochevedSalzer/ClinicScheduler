@@ -1,5 +1,6 @@
 ﻿using DAL.DalApi;
 using DAL.Do;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,7 +19,7 @@ namespace DAL.DalImplementation
         }
         public List<Appointment> GetAll()
         {
-            return Context.Appointments.ToList();
+            return Context.Appointments.Include(a=>a.DoctorCodeNavigation ).Include(a=>a.PatientCodeNavigation).ToList();
         }
         public Appointment Get(int code)
         {
@@ -29,7 +30,7 @@ namespace DAL.DalImplementation
             int code = Context.Patients.FirstOrDefault(p=>p.PatientId==patientId).Code;
 
             var result = from appointment in Context.Appointments
-                            where (appointment.PatientCode)==code
+                            where (appointment.PatientCode)==code&&(appointment.AppointmentTime>=DateTime.Now)
                             select appointment;
           
             return result.ToList();

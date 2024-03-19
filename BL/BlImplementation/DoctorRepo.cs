@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 using BL.BlApi;
 using DAL;
 //using BL.Bo;
@@ -11,9 +12,11 @@ namespace BL.BlImplementation;
 public class DoctorRepo : IDoctor
 {
     DAL.DalApi.IDoctor DoctorInstance;
-    public DoctorRepo(DalManager  Instance)
+    IMapper map;
+    public DoctorRepo(DalManager  Instance,IMapper map)
     {
         this.DoctorInstance = Instance.Doctors ;
+        this.map = map;
     }
 
     public Bo.Doctor Add(Bo.Doctor doctor)
@@ -28,17 +31,14 @@ public class DoctorRepo : IDoctor
 
     public Bo.Doctor Get(int id)
     {
-        throw new NotImplementedException();
+        return map.Map<Bo.Doctor>(id);
     }
 
     public List<Bo.Doctor> GetAll()
     {
         List<DAL.Do.Doctor> allDoctors = DoctorInstance.GetAll();
         List<Bo.Doctor> BoallDoctors = new List<Bo.Doctor>();
-        for (int i = 0; i < allDoctors.Count(); i++)
-        {
-            BoallDoctors.Add(new Bo.Doctor(allDoctors[i].FirstName, allDoctors[i].LastName, allDoctors[i].PhoneNumber, allDoctors[i].Email, allDoctors[i].DoctorType));
-        }
+        allDoctors.ForEach(d => BoallDoctors.Add(map.Map<Bo.Doctor>(d)));
         return BoallDoctors;
     }
 

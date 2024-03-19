@@ -8,20 +8,20 @@ namespace BL.Bo;
 public class Doctor
 {
 
-    DAL.DalImplementation.DoctorTypeRepo dtype=new(new ClinicContext());
+    //DAL.DalImplementation.DoctorTypeRepo dtype=new(new ClinicContext());
     //public int Id { get; set; }
-    public Doctor(string FirstName, string LastName, int PhoneNumber, string Email, int IntDoctorType)
-    {
+    //public Doctor(string FirstName, string LastName, int PhoneNumber, string Email, int IntDoctorType)
+    //{
 
-        this.FirstName = FirstName;
-        this.LastName = LastName;
-        this.PhoneNumber = PhoneNumber;
-        this.Email = Email;
-        //DoctorType = DAL.Do.Type.Type1 where DAL.Do.Type.Id.Equals(DoctorType);
-        DoctorType = dtype.GetAll().FirstOrDefault(i => i.Id == IntDoctorType).Type;
+    //    this.FirstName = FirstName;
+    //    this.LastName = LastName;
+    //    this.PhoneNumber = PhoneNumber;
+    //    this.Email = Email;
+    //    //DoctorType = DAL.Do.Type.Type1 where DAL.Do.Type.Id.Equals(DoctorType);
+    //    //DoctorType = dtype.GetAll().FirstOrDefault(i => i.Id == IntDoctorType).Type;
 
 
-    }
+    //}
     public string FirstName { get; set; } = null!;
 
     public string LastName { get; set; } = null!;

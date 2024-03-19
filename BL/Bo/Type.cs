@@ -6,10 +6,10 @@ namespace BL.Bo;
 public class DoctorType
 {
     public string DType { get; set; } = null!;
-    public DoctorType(string DType)
-    {
-        this.DType = DType; 
-    }
+    //public DoctorType(string DType)
+    //{
+    //    this.DType = DType; 
+    //}
     //public int Id { get; set; }
 
     

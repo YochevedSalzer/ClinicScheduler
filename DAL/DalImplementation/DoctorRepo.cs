@@ -5,6 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 using DAL.DalApi;
 using DAL.Do;
+using Microsoft.EntityFrameworkCore;
+
 namespace DAL.DalImplementation
 {
     public class DoctorRepo : IDoctor
@@ -33,7 +35,7 @@ namespace DAL.DalImplementation
         public List<Doctor> GetAll()
         {
             
-            List<Doctor> result = Context.Doctors.ToList();
+            List<Doctor> result = Context.Doctors.Include(d => d.DoctorTypeNavigation).ToList();
             return result;
         }
 

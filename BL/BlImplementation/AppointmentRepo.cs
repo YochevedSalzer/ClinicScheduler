@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 
 namespace BL.BlImplementation
 {
@@ -14,20 +15,19 @@ namespace BL.BlImplementation
     {
 
         DAL.DalApi.IAppointment AppointmentInstance;
-        public AppointmentRepo(DalManager Instance)
+        IMapper map;
+        public AppointmentRepo(DalManager Instance, IMapper map)
         {
             this.AppointmentInstance = Instance.Appointments;
+            this.map = map;
         }
         public List<Bo.Appointment> GetAll()
         {
             List<DAL.Do.Appointment> allAppointments = AppointmentInstance.GetAll();
+            
             List<Bo.Appointment> BoallAppointments = new List<Bo.Appointment>();
-            ////List<DAL.Do.Doctor> allDoctors=
-
-            //for (int i = 0; i < allAppointments.Count(); i++)
-            //{
-            //    BoallAppointments.Add(new Bo.Appointment(allAppointments[i].DoctorCode));
-            //}
+            allAppointments.ForEach
+                (a => BoallAppointments.Add(map.Map<Bo.Appointment>(a)));
             return BoallAppointments;
         }
 
@@ -37,9 +37,10 @@ namespace BL.BlImplementation
         }
 
 
-        public List<Bo.Appointment> GetAppointmentsByPatientId(string patientId)
+        public List<Bo.Appointment> GetAppointmentsByPatientId(string patientId="1")
         {
-            throw new NotImplementedException();
+            return new List<Bo.Appointment>();
+                AppointmentInstance.GetAppointmentsByPatientId(patientId).ToList();
         }
         public Bo.Appointment Add(Bo.Appointment obj)
         {

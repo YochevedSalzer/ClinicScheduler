@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using AutoMapper;
 using BL.BlApi;
 using BL.Bo;
 using DAL;
@@ -12,10 +13,12 @@ namespace BL.BlImplementation
     public class TypeRepo : IType
     {
         DAL.DalApi.IDoctorType TypeInstance;
+        IMapper map;
 
-        public TypeRepo(DalManager instance)
+        public TypeRepo(DalManager instance, IMapper map)
         {
             TypeInstance = instance.DoctorTypes;
+            this.map = map;
         }
 
         public Bo.DoctorType Add(Bo.DoctorType doctorType)
@@ -37,10 +40,7 @@ namespace BL.BlImplementation
         {
             List<DAL.Do.DoctorType> allTypes = TypeInstance.GetAll();
             List<Bo.DoctorType> BoallTypes = new List<Bo.DoctorType>();
-            for (int i = 0; i < allTypes.Count(); i++)
-            {
-                BoallTypes.Add(new Bo.DoctorType(allTypes[i].Type));
-            }
+            allTypes.ForEach(t => BoallTypes.Add(map.Map<Bo.DoctorType>(t)));
             return BoallTypes;
         }
 
