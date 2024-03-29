@@ -1,6 +1,7 @@
 ﻿using DAL.DalApi;
 using DAL.DalImplementation;
 using DAL.Do;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -16,10 +17,10 @@ namespace DAL
         public IPatient Patients { get; set; }
         public IAppointment Appointments { get; set; }
         public IDoctorType DoctorTypes { get; set; }
-        public DalManager()
+        public DalManager(string connStr)
         {
             ServiceCollection services=new ServiceCollection();
-
+            services.AddDbContext<ClinicContext>(opt => opt.UseSqlServer(connStr));
             services.AddSingleton<ClinicContext>();
             services.AddScoped<IDoctor, DoctorRepo>();
             services.AddScoped<IPatient, PatientRepo>();

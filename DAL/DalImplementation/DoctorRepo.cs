@@ -39,6 +39,16 @@ namespace DAL.DalImplementation
             return result;
         }
 
+        public List<Doctor> GetByDoctorType(string dType)
+        {
+            int code = Context.DoctorTypes.FirstOrDefault(d => d.Type == dType).Id;
+            var result = from doctor in Context.Doctors
+                         where (doctor.DoctorType) == code
+                         select doctor;
+           
+            return result.ToList();
+        }
+       
         public Doctor Update(Doctor obj)
         {
             throw new NotImplementedException();

@@ -9,13 +9,13 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
-
-// builder.Services.AddScoped<IDoctor, DoctorRepo>();
-builder.Services.AddSingleton<BLManager>();
-
-
-DBActions db= new DBActions(builder.Configuration);
+DBActions db = new DBActions(builder.Configuration);
 string connStr = db.GetConnectionString("ClinicContext");
+// builder.Services.AddScoped<IDoctor, DoctorRepo>();
+builder.Services.AddSingleton<BLManager>(x=>new BLManager(connStr));
+
+
+
 builder.Services.AddDbContext<ClinicContext>(opt=> opt.UseSqlServer(connStr));
 //builder.Services.AddEndpointsApiExplorer();
 //builder.Services.AddSwaggerGen();

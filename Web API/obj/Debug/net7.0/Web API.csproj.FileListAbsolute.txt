@@ -665,3 +665,12 @@ D:\Project\Web API\obj\Debug\net7.0\refint\Web API.dll
 D:\Project\Web API\obj\Debug\net7.0\Web API.pdb
 D:\Project\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
 D:\Project\Web API\obj\Debug\net7.0\ref\Web API.dll
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.dll
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\refint\Web API.dll
+H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.pdb

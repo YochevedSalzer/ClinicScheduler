@@ -23,7 +23,7 @@ namespace DAL.DalImplementation
         }
         public Appointment Get(int code)
         {
-            return Context.Appointments.Find(code);
+            return Context.Appointments.FirstOrDefault(a => a.Code == code);
         }
         public List<Appointment> GetAppointmentsByPatientId(string patientId)
         {

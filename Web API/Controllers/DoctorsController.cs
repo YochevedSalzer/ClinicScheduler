@@ -24,6 +24,14 @@ namespace Web_API.Controllers
             }
             return BadRequest();
         }
-
+        [HttpGet("doctorType")]
+        public IActionResult GetByDoctorType(string doctorType)
+        {
+            if (doctor.GetByDoctorType(doctorType) != null)
+            {
+                return Ok(doctor.GetByDoctorType(doctorType));
+            }
+            return BadRequest();
+        }
     }
 }

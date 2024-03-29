@@ -9,5 +9,5 @@ using System.Threading.Tasks;
 namespace BL.BlApi;
 public interface IDoctor:IRepo<Doctor>
 {
-    
+    public List<Doctor> GetByDoctorType(string dType);
 }

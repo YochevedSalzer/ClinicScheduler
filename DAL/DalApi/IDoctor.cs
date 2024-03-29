@@ -9,5 +9,6 @@ namespace DAL.DalApi
 {
     public interface IDoctor: IRepo<Doctor>
     {
+        public List<Doctor> GetByDoctorType(string dType);
     }
 }

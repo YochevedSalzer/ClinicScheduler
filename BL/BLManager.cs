@@ -25,12 +25,12 @@ namespace BL
         public IType DoctorTypes { get; }
 
 
-        public BLManager()
+        public BLManager(string connStr)
         {
 
             ServiceCollection services = new ServiceCollection(); // אוסף של מחלקות שרות
 
-            services.AddSingleton<DalManager>();
+            services.AddSingleton<DalManager>(x=> new DalManager(connStr));
             services.AddAutoMapper(typeof(AutoMapper.AutoMapperProfile));
             services.AddScoped <BL.BlApi.IDoctor , DoctorRepo>(); // כאן יצרנו אוביקט יחיד מטיפוס מחלקת שרות של רופאים
             services.AddScoped<BL.BlApi.IPatient, BL.BlImplementation.PatientRepo >();

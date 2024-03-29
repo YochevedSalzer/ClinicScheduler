@@ -31,9 +31,9 @@ namespace BL.BlImplementation
             return BoallAppointments;
         }
 
-        public Bo.Appointment Get(int id)
+        public Bo.Appointment Get(int code)
         {
-            throw new NotImplementedException();
+            return map.Map<Bo.Appointment>( AppointmentInstance.Get(code));
         }
 
 

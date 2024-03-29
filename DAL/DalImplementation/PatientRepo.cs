@@ -51,17 +51,6 @@ namespace DAL.DalImplementation
             }
             return patient;
         }
-
-       
-
-        
-
-        //public List<Appointment> GetAppointments(int id)
-        //{
-        //    return Get(id).Appointments.ToList();
-        //}
-        
-
         public Patient Update(Patient obj)
         {
             throw new NotImplementedException();
