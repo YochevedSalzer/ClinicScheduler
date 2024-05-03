@@ -35,9 +35,8 @@ namespace DAL.DalImplementation
           
             return result.ToList();
         }
-        public List<Appointment> GetAllDoctorsAppointments(int doctorId)
+        public List<Appointment> GetAppointmentsByDoctorCode(int code)
         {
-            int code = Context.Doctors.Find(doctorId).Code;
 
             var result = from appointment in Context.Appointments
                          where (appointment.DoctorCode) == code

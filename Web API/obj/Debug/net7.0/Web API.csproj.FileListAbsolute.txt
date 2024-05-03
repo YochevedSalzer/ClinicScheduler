@@ -674,3 +674,4 @@ H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.MvcApplication
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.dll
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\refint\Web API.dll
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.pdb
+H:\Project\Project\Web API\bin\Debug\net7.0\AutoMapper.dll

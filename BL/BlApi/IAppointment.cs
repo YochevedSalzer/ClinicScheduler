@@ -10,5 +10,6 @@ namespace BL.BlApi
     public interface IAppointment:IRepo<Appointment>
     {
        public List<Appointment> GetAppointmentsByPatientId(string patientId);
+       public List<Appointment> GetAppointmentsByDoctorCode(int code);
     }
 }

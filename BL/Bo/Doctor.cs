@@ -22,6 +22,7 @@ public class Doctor
 
 
     //}
+    public int Code { get; set; }
     public string FirstName { get; set; } = null!;
 
     public string LastName { get; set; } = null!;

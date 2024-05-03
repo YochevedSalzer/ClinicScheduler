@@ -39,8 +39,11 @@ namespace BL.BlImplementation
 
         public List<Bo.Appointment> GetAppointmentsByPatientId(string patientId="1")
         {
-            return new List<Bo.Appointment>();
-                AppointmentInstance.GetAppointmentsByPatientId(patientId).ToList();
+            return map.Map<List<Bo.Appointment>>( AppointmentInstance.GetAppointmentsByPatientId(patientId).ToList());
+        }
+        public List<Bo.Appointment> GetAppointmentsByDoctorCode(int code)
+        {
+            return map.Map<List<Bo.Appointment>>(AppointmentInstance.GetAppointmentsByDoctorCode(code).ToList());
         }
         public Bo.Appointment Add(Bo.Appointment obj)
         {

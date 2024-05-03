@@ -37,5 +37,12 @@ namespace Web_API.Controllers
                 return Ok(appointment.GetAppointmentsByPatientId(id));
             return BadRequest();
         }
+        //[HttpGet("id")]
+        //public IActionResult GetAppointmentsByPatientId(string id)
+        //{
+        //    if (appointment.GetAppointmentsByPatientId(id) != null)
+        //        return Ok(appointment.GetAppointmentsByPatientId(id));
+        //    return BadRequest();
+        //}
     }
 }

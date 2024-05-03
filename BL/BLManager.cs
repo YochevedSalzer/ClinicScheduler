@@ -29,9 +29,8 @@ namespace BL
         {
 
             ServiceCollection services = new ServiceCollection(); // אוסף של מחלקות שרות
-
-            services.AddSingleton<DalManager>(x=> new DalManager(connStr));
             services.AddAutoMapper(typeof(AutoMapper.AutoMapperProfile));
+            services.AddSingleton<DalManager>(x=> new DalManager(connStr));
             services.AddScoped <BL.BlApi.IDoctor , DoctorRepo>(); // כאן יצרנו אוביקט יחיד מטיפוס מחלקת שרות של רופאים
             services.AddScoped<BL.BlApi.IPatient, BL.BlImplementation.PatientRepo >();
             services.AddScoped<BL.BlApi.IAppointment, BL.BlImplementation.AppointmentRepo>();
