@@ -32,7 +32,8 @@ public class PatientRepo : IPatient
 
     public Bo.Patient Get(int code)
     {
-        return map.Map<Bo.Patient>(code);
+        DAL.Do.Patient  patient = Patient.Get(code);
+        return map.Map<Bo.Patient>(patient);
     }
     public Bo.Patient Add(Bo.Patient patient)
     {

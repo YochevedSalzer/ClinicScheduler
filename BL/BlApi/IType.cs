@@ -5,10 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using BL.Bo;
 
-namespace BL.BlApi
+namespace BL.BlApi;
+
+public interface IType : IRepo<DoctorType>
 {
-    public interface IType : IRepo<DoctorType>
-    {
-        
-    }
+    
 }

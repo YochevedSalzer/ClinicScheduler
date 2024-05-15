@@ -28,8 +28,11 @@ public class DoctorRepo : IDoctor
     }
     public List<Bo.Doctor> GetByDoctorType(string dType)
     {
-        return new List<Bo.Doctor>();
-        DoctorInstance.GetByDoctorType(dType).ToList();
+        List<DAL.Do.Doctor> allDoctorsOfType = DoctorInstance.GetByDoctorType(dType).ToList();
+        List<Bo.Doctor> BoallDoctorsOfType = new List<Bo.Doctor>();
+        allDoctorsOfType.ForEach(d => BoallDoctorsOfType.Add(map.Map<Bo.Doctor>(d)));
+        return BoallDoctorsOfType;
+      
     }
     public Bo.Doctor Add(Bo.Doctor doctor)
     {

@@ -18,6 +18,8 @@ namespace Web_API.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
+
+            
             if (doctorType.GetAll() != null)
             {
                 return Ok(doctorType.GetAll());

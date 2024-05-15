@@ -2667,40 +2667,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\פרנקל ברכה\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Project\\Project\\BL\\BL.csproj",
+      "projectUniqueName": "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj",
       "projectName": "BL",
-      "projectPath": "H:\\Project\\Project\\BL\\BL.csproj",
-      "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
-      "outputPath": "H:\\Project\\Project\\BL\\obj\\",
+      "projectPath": "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj",
+      "packagesPath": "C:\\Users\\פרנקל ברכה\\.nuget\\packages\\",
+      "outputPath": "H:\\פרויקט סטאז\\Project\\BL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+        "C:\\Users\\פרנקל ברכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "H:\\Project\\Project\\DAL\\DAL.csproj": {
-              "projectPath": "H:\\Project\\Project\\DAL\\DAL.csproj"
+            "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj": {
+              "projectPath": "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj"
             }
           }
         }
@@ -2736,7 +2735,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

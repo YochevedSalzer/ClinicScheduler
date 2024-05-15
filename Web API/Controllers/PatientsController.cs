@@ -24,7 +24,7 @@ namespace Web_API.Controllers
             return BadRequest();
         }
 
-        [HttpGet("patientCode")]
+        [HttpGet("{patientCode}")]
         public IActionResult Get(int patientCode)
         {
             if(patient.Get(patientCode) != null)
