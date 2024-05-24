@@ -1,5 +1,6 @@
 ﻿using BL;
 using BL.BlApi;
+using BL.Bo;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -24,7 +25,7 @@ namespace Web_API.Controllers
             appointment = bLManager.Appointments;
         }
         [HttpGet("code")]//האם השם כאן משנה?
-        public IActionResult Get(int code) 
+        public IActionResult GetByCode(int code) 
         {
             if(appointment.Get(code)!= null)
                 return Ok(appointment.Get(code));
@@ -37,12 +38,12 @@ namespace Web_API.Controllers
                 return Ok(appointment.GetAppointmentsByPatientId(id));
             return BadRequest();
         }
-        //[HttpGet("id")]
-        //public IActionResult GetAppointmentsByPatientId(string id)
-        //{
-        //    if (appointment.GetAppointmentsByPatientId(id) != null)
-        //        return Ok(appointment.GetAppointmentsByPatientId(id));
-        //    return BadRequest();
-        //}
+
+        [HttpPost]
+        public Appointment Post(Appointment appoint)
+        {
+            appointment.Add(appoint);
+            return appoint;
+        } 
     }
 }

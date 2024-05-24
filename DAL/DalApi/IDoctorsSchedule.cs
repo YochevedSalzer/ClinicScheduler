@@ -5,9 +5,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.DalApi
+namespace DAL.DalApi;
+
+public interface IDoctorsSchedule:IRepo<DoctorsSchedule>
 {
-    internal interface IDoctorsSchedule:IRepo<DoctorsSchedule>
-    {
-    }
 }

@@ -16,6 +16,15 @@ namespace DAL.DalImplementation
         {
             Context = context;
         }
+        public DoctorsSchedule Get(int doctorCode)
+        {
+
+            return Context.DoctorsSchedules.FirstOrDefault(x => x.DoctorCode == doctorCode);
+        }
+        public List<DoctorsSchedule> GetAll()
+        {
+            return Context.DoctorsSchedules.ToList();
+        }
         public DoctorsSchedule Add(DoctorsSchedule obj)
         {
             throw new NotImplementedException();
@@ -26,16 +35,7 @@ namespace DAL.DalImplementation
             throw new NotImplementedException();
         }
 
-        public DoctorsSchedule Get(int id)
-        {
-  
-            return Context.DoctorsSchedules.Find(id);
-        }
-
-        public List<DoctorsSchedule> GetAll()
-        {
-            return Context.DoctorsSchedules.ToList();
-        }
+      
 
         public DoctorsSchedule Update(DoctorsSchedule obj)
         {

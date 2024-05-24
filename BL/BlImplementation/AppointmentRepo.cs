@@ -45,9 +45,10 @@ namespace BL.BlImplementation
         {
             return map.Map<List<Bo.Appointment>>(AppointmentInstance.GetAppointmentsByDoctorCode(code).ToList());
         }
-        public Bo.Appointment Add(Bo.Appointment obj)
+        public Bo.Appointment Add(Bo.Appointment appointment)
         {
-            throw new NotImplementedException();
+            AppointmentInstance.Add(map.Map<DAL.Do.Appointment>(appointment));
+            return appointment;
         }
 
         public Bo.Appointment Delete(int id)

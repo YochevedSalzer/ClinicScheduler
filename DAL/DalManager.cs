@@ -17,6 +17,7 @@ namespace DAL
         public IPatient Patients { get; set; }
         public IAppointment Appointments { get; set; }
         public IDoctorType DoctorTypes { get; set; }
+        public IDoctorsSchedule DoctorsSchedule { get; set; }
         public DalManager(string connStr)
         {
             ServiceCollection services=new ServiceCollection();
@@ -26,6 +27,7 @@ namespace DAL
             services.AddScoped<IPatient, PatientRepo>();
             services.AddScoped<IAppointment, AppointmentRepo>();
             services.AddScoped<IDoctorType, DoctorTypeRepo>();
+            services.AddScoped<IDoctorsSchedule, DoctorsSchedualRepo>();
 
             ServiceProvider servicesProvider = services.BuildServiceProvider();
 
@@ -33,6 +35,7 @@ namespace DAL
             Patients = servicesProvider.GetRequiredService<IPatient>();
             Appointments=servicesProvider.GetRequiredService<IAppointment>();
             DoctorTypes = servicesProvider.GetRequiredService<IDoctorType>();
+            DoctorsSchedule= servicesProvider.GetRequiredService<IDoctorsSchedule>();
         }
     }
 }

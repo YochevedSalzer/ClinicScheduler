@@ -741,3 +741,79 @@ H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\scopedcss\bundle\Web A
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.csproj.CopyComplete
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
 H:\פרויקט סטאז\Project\Web API\obj\Debug\net7.0\ref\Web API.dll
+H:\Project\Web API\bin\Debug\net7.0\appsettings.Development.json
+H:\Project\Web API\bin\Debug\net7.0\appsettings.json
+H:\Project\Web API\bin\Debug\net7.0\Web API.exe
+H:\Project\Web API\bin\Debug\net7.0\Web API.deps.json
+H:\Project\Web API\bin\Debug\net7.0\Web API.runtimeconfig.json
+H:\Project\Web API\bin\Debug\net7.0\Web API.dll
+H:\Project\Web API\bin\Debug\net7.0\Web API.pdb
+H:\Project\Web API\bin\Debug\net7.0\AutoMapper.dll
+H:\Project\Web API\bin\Debug\net7.0\Azure.Core.dll
+H:\Project\Web API\bin\Debug\net7.0\Azure.Identity.dll
+H:\Project\Web API\bin\Debug\net7.0\Humanizer.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\Project\Web API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\Project\Web API\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\Project\Web API\bin\Debug\net7.0\System.CodeDom.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\Project\Web API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Memory.Data.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\Project\Web API\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\Project\Web API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\Project\Web API\bin\Debug\net7.0\BL.dll
+H:\Project\Web API\bin\Debug\net7.0\DAL.dll
+H:\Project\Web API\bin\Debug\net7.0\BL.pdb
+H:\Project\Web API\bin\Debug\net7.0\DAL.pdb
+H:\Project\Web API\obj\Debug\net7.0\Web API.csproj.AssemblyReference.cache
+H:\Project\Web API\obj\Debug\net7.0\Web API.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Web API\obj\Debug\net7.0\Web API.AssemblyInfoInputs.cache
+H:\Project\Web API\obj\Debug\net7.0\Web API.AssemblyInfo.cs
+H:\Project\Web API\obj\Debug\net7.0\Web API.csproj.CoreCompileInputs.cache
+H:\Project\Web API\obj\Debug\net7.0\Web API.MvcApplicationPartsAssemblyInfo.cache
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets\msbuild.Web API.Microsoft.AspNetCore.StaticWebAssets.props
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets\msbuild.build.Web API.props
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Web API.props
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Web API.props
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets.pack.json
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets.build.json
+H:\Project\Web API\obj\Debug\net7.0\staticwebassets.development.json
+H:\Project\Web API\obj\Debug\net7.0\scopedcss\bundle\Web API.styles.css
+H:\Project\Web API\obj\Debug\net7.0\Web API.csproj.CopyComplete
+H:\Project\Web API\obj\Debug\net7.0\Web API.dll
+H:\Project\Web API\obj\Debug\net7.0\refint\Web API.dll
+H:\Project\Web API\obj\Debug\net7.0\Web API.pdb
+H:\Project\Web API\obj\Debug\net7.0\Web API.genruntimeconfig.cache
+H:\Project\Web API\obj\Debug\net7.0\ref\Web API.dll
+H:\Project\Web API\bin\Debug\net7.0\FluentAssertions.dll

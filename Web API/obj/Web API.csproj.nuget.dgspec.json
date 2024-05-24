@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\פרויקט סטאז\\Project\\Web API\\Web API.csproj": {}
+    "H:\\Project\\Web API\\Web API.csproj": {}
   },
   "projects": {
-    "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj": {
+    "H:\\Project\\BL\\BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj",
+        "projectUniqueName": "H:\\Project\\BL\\BL.csproj",
         "projectName": "BL",
-        "projectPath": "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj",
-        "packagesPath": "C:\\Users\\פרנקל ברכה\\.nuget\\packages\\",
-        "outputPath": "H:\\פרויקט סטאז\\Project\\BL\\obj\\",
+        "projectPath": "H:\\Project\\BL\\BL.csproj",
+        "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\פרנקל ברכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +27,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj": {
-                "projectPath": "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj"
+              "H:\\Project\\DAL\\DAL.csproj": {
+                "projectPath": "H:\\Project\\DAL\\DAL.csproj"
               }
             }
           }
@@ -69,24 +71,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj": {
+    "H:\\Project\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj",
+        "projectUniqueName": "H:\\Project\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "H:\\פרויקט סטאז\\Project\\DAL\\DAL.csproj",
-        "packagesPath": "C:\\Users\\פרנקל ברכה\\.nuget\\packages\\",
-        "outputPath": "H:\\פרויקט סטאז\\Project\\DAL\\obj\\",
+        "projectPath": "H:\\Project\\DAL\\DAL.csproj",
+        "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\פרנקל ברכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,6 +98,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -113,6 +117,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.14, )"
@@ -140,24 +148,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "H:\\פרויקט סטאז\\Project\\Web API\\Web API.csproj": {
+    "H:\\Project\\Web API\\Web API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\פרויקט סטאז\\Project\\Web API\\Web API.csproj",
+        "projectUniqueName": "H:\\Project\\Web API\\Web API.csproj",
         "projectName": "Web API",
-        "projectPath": "H:\\פרויקט סטאז\\Project\\Web API\\Web API.csproj",
-        "packagesPath": "C:\\Users\\פרנקל ברכה\\.nuget\\packages\\",
-        "outputPath": "H:\\פרויקט סטאז\\Project\\Web API\\obj\\",
+        "projectPath": "H:\\Project\\Web API\\Web API.csproj",
+        "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
+        "outputPath": "H:\\Project\\Web API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\פרנקל ברכה\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -166,14 +175,16 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj": {
-                "projectPath": "H:\\פרויקט סטאז\\Project\\BL\\BL.csproj"
+              "H:\\Project\\BL\\BL.csproj": {
+                "projectPath": "H:\\Project\\BL\\BL.csproj"
               }
             }
           }
@@ -214,7 +225,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
