@@ -153,3 +153,17 @@ H:\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
 H:\Project\DAL\obj\Debug\net7.0\DAL.pdb
 H:\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
 H:\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\ref\DAL.dll

@@ -22,7 +22,7 @@ namespace DAL
         {
             ServiceCollection services=new ServiceCollection();
             services.AddDbContext<ClinicContext>(opt => opt.UseSqlServer(connStr));
-            services.AddSingleton<ClinicContext>();
+            //services.AddSingleton<ClinicContext>();
             services.AddScoped<IDoctor, DoctorRepo>();
             services.AddScoped<IPatient, PatientRepo>();
             services.AddScoped<IAppointment, AppointmentRepo>();

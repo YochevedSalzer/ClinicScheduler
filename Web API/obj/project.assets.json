@@ -2960,21 +2960,19 @@
   },
   "packageFolders": {
     "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\Project\\Web API\\Web API.csproj",
+      "projectUniqueName": "C:\\Users\\זלצר יוכבד\\Project\\Web API\\Web API.csproj",
       "projectName": "Web API",
-      "projectPath": "H:\\Project\\Web API\\Web API.csproj",
+      "projectPath": "C:\\Users\\זלצר יוכבד\\Project\\Web API\\Web API.csproj",
       "packagesPath": "C:\\Users\\זלצר יוכבד\\.nuget\\packages\\",
-      "outputPath": "H:\\Project\\Web API\\obj\\",
+      "outputPath": "C:\\Users\\זלצר יוכבד\\Project\\Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
         "C:\\Users\\זלצר יוכבד\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2986,7 +2984,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -2994,8 +2991,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "H:\\Project\\BL\\BL.csproj": {
-              "projectPath": "H:\\Project\\BL\\BL.csproj"
+            "C:\\Users\\זלצר יוכבד\\Project\\BL\\BL.csproj": {
+              "projectPath": "C:\\Users\\זלצר יוכבד\\Project\\BL\\BL.csproj"
             }
           }
         }
