@@ -1,4 +1,6 @@
 ﻿using AutoMapper;
+using BL.BlApi;
+using BL.Bo;
 using DAL;
 using System;
 using System.Collections.Generic;
@@ -8,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BL.BlImplementation
 {
-    public class DoctorScheduleRepo
+    public class DoctorScheduleRepo :IDoctorSchedule
     {
 
         DAL.DalApi.IDoctorsSchedule DoctorScheduleInstance;
@@ -47,6 +49,26 @@ namespace BL.BlImplementation
             throw new NotImplementedException();
         }
         public Bo.Doctor Update(Bo.Doctor doctor)
+        {
+            throw new NotImplementedException();
+        }
+
+        DoctorSchedule IRepo<DoctorSchedule>.Get(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public DoctorSchedule Add(DoctorSchedule obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public DoctorSchedule Update(DoctorSchedule obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        DoctorSchedule IRepo<DoctorSchedule>.Delete(int id)
         {
             throw new NotImplementedException();
         }

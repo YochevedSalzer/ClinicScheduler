@@ -11,7 +11,7 @@ using AutoMapper;
 
 namespace BL.BlImplementation
 {
-    internal class AppointmentRepo : IAppointment
+    public class AppointmentRepo : IAppointment
     {
 
         DAL.DalApi.IAppointment AppointmentInstance;

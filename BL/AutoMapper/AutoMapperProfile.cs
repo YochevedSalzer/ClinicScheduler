@@ -30,7 +30,8 @@ namespace BL.AutoMapper
             CreateMap<DAL.Do.Patient, BL.Bo.Patient>()
                 .ForMember(dest => dest.Age, source => source.MapFrom(src =>DateTime.Now.Year- src.BirthDate.Year));
             //CreateMap<DAL.Do.DoctorType, BL.Bo.DoctorType>();
-            CreateMap<DAL.Do.DoctorType, BL.Bo.DoctorType>().ForMember(dest => dest.DType, source => source.MapFrom(src => src.Type));
+            CreateMap<DAL.Do.DoctorType, BL.Bo.DoctorType>()
+                .ForMember(dest => dest.DType, source => source.MapFrom(src => src.Type));
             CreateMap<DAL.Do.Appointment, BL.Bo.Appointment>()
                 .ForMember(dest => dest.DoctorName, source => source.MapFrom(src => src.DoctorCodeNavigation.FirstName + src.DoctorCodeNavigation.LastName))
                 .ForMember(dest => dest.DoctorType, source => source.MapFrom(src => src.DoctorCodeNavigation.DoctorTypeNavigation.Type))
@@ -38,9 +39,10 @@ namespace BL.AutoMapper
             CreateMap<BL.Bo.Appointment, DAL.Do.Appointment>()
                 .ForMember(dest => dest.DoctorCode, source => source.MapFrom(src => doctorRepo.GetAll().Where(d => d.FirstName + d.LastName == src.DoctorName)))
                 .ForMember(dest => dest.PatientCode, source => source.MapFrom(src => patientRepo.GetAll().Where(d => d.FirstName + d.LastName == src.PatientName)));
-
-
-
+            CreateMap<DAL.Do.DoctorsSchedule, BL.Bo.DoctorSchedule>()
+                .ForMember(dest => dest.DayInTheWeek, source => source.MapFrom(src => (DayOfWeek)(src.DayInTheWeek-1)));
+            CreateMap< BL.Bo.DoctorSchedule, DAL.Do.DoctorsSchedule>()
+                 .ForMember(dest => dest.DayInTheWeek, source => source.MapFrom(src => (int)(src.DayInTheWeek + 1)));
         }
     }
 }

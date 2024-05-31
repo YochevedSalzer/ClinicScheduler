@@ -23,7 +23,9 @@ namespace BL
         public BL.BlApi.IPatient Patients { get; }
         public BL.BlApi.IAppointment Appointments { get; }
         public IType DoctorTypes { get; }
-
+        public BL.BlApi.IDoctorSchedule DoctorScheduleRepo { get; }
+        public AppointmentsManager AppointmentsManager { get; }
+        
 
         public BLManager(string connStr)
         {
@@ -35,6 +37,8 @@ namespace BL
             services.AddScoped<BL.BlApi.IPatient, BL.BlImplementation.PatientRepo >();
             services.AddScoped<BL.BlApi.IAppointment, BL.BlImplementation.AppointmentRepo>();
             services.AddScoped<BL.BlApi.IType, BL.BlImplementation.TypeRepo>();
+            services.AddScoped<BL.AppointmentsManager, BL.AppointmentsManager>();
+            services.AddScoped<BL.BlApi.IDoctorSchedule, BL.BlImplementation.DoctorScheduleRepo>();
 
             ServiceProvider provider = services.BuildServiceProvider();  // מנהל את האוסף, כאשר משהו מבקש אוביקט הוא אחראי לתת
 
@@ -42,6 +46,9 @@ namespace BL
             Patients = provider.GetRequiredService<BL.BlApi.IPatient>();
             Appointments = provider.GetRequiredService<BL.BlApi.IAppointment>();
             DoctorTypes = provider.GetRequiredService<IType>();
+            DoctorScheduleRepo = provider.GetRequiredService<BL.BlApi.IDoctorSchedule>();
+            AppointmentsManager= provider.GetRequiredService<AppointmentsManager>();
+
         }
     }
 }

@@ -11,7 +11,7 @@ namespace BL.Bo
 
         public int DoctorCode { get; set; }
 
-        public int DayInTheWeek { get; set; }
+        public DayOfWeek DayInTheWeek { get; set; }
 
         public TimeSpan StartTime { get; set; }
 

@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.BlApi
+namespace BL.BlApi;
+
+public interface IDoctorSchedule:IRepo<DoctorSchedule>
 {
-    public interface IDoctorSchedule:IRepo<DoctorSchedule>
-    {
-    }
+    public List<Bo.DoctorSchedule> GetAllByDoctorCode(int code);
 }
