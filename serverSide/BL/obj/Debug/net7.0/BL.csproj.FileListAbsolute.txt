@@ -1,0 +1,213 @@
+H:\Project\Project\BL\bin\Debug\net7.0\BL.deps.json
+H:\Project\Project\BL\bin\Debug\net7.0\BL.dll
+H:\Project\Project\BL\bin\Debug\net7.0\BL.pdb
+H:\Project\Project\BL\bin\Debug\net7.0\DAL.dll
+H:\Project\Project\BL\bin\Debug\net7.0\DAL.pdb
+H:\Project\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\Project\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\Project\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\Project\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\Project\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\Project\Project\BL\obj\Debug\net7.0\BL.dll
+H:\Project\Project\BL\obj\Debug\net7.0\refint\BL.dll
+H:\Project\Project\BL\obj\Debug\net7.0\BL.pdb
+H:\Project\Project\BL\obj\Debug\net7.0\ref\BL.dll
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.dll
+H:\Project\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.pdb
+H:\Project\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+H:\Project\serverSide\BL\bin\Debug\net7.0\BL.dll
+H:\Project\serverSide\BL\bin\Debug\net7.0\BL.pdb
+H:\Project\serverSide\BL\bin\Debug\net7.0\DAL.dll
+H:\Project\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+H:\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\Project\serverSide\BL\obj\Debug\net7.0\ref\BL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\bin\Debug\net7.0\BL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\bin\Debug\net7.0\BL.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\bin\Debug\net7.0\DAL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\BL.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\bin\Debug\net7.0\BL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\ברלין שולמית\Desktop\serverSide\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\bin\Debug\net7.0\BL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\BL\obj\Debug\net7.0\ref\BL.dll
+D:\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+D:\serverSide\BL\bin\Debug\net7.0\BL.dll
+D:\serverSide\BL\bin\Debug\net7.0\BL.pdb
+D:\serverSide\BL\bin\Debug\net7.0\DAL.dll
+D:\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+D:\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\serverSide\BL\obj\Debug\net7.0\BL.dll
+D:\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+D:\serverSide\BL\obj\Debug\net7.0\BL.pdb
+D:\serverSide\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.sourcelink.json
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.dll
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\The user\Documents\GitHub\Project\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\The user\Documents\GitHub\Project\BL\bin\Debug\net7.0\BL.dll
+C:\Users\The user\Documents\GitHub\Project\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\The user\Documents\GitHub\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Documents\GitHub\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\The user\Documents\GitHub\Project\BL\obj\Debug\net7.0\ref\BL.dll
+D:\BEH\Project\BL\bin\Debug\net7.0\BL.deps.json
+D:\BEH\Project\BL\bin\Debug\net7.0\BL.dll
+D:\BEH\Project\BL\bin\Debug\net7.0\BL.pdb
+D:\BEH\Project\BL\bin\Debug\net7.0\DAL.dll
+D:\BEH\Project\BL\bin\Debug\net7.0\DAL.pdb
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.dll
+D:\BEH\Project\BL\obj\Debug\net7.0\refint\BL.dll
+D:\BEH\Project\BL\obj\Debug\net7.0\BL.pdb
+D:\BEH\Project\BL\obj\Debug\net7.0\ref\BL.dll
+D:\Project\BL\bin\Debug\net7.0\BL.deps.json
+D:\Project\BL\bin\Debug\net7.0\BL.dll
+D:\Project\BL\bin\Debug\net7.0\BL.pdb
+D:\Project\BL\bin\Debug\net7.0\DAL.dll
+D:\Project\BL\bin\Debug\net7.0\DAL.pdb
+D:\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+D:\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+D:\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+D:\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+D:\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+D:\Project\BL\obj\Debug\net7.0\BL.dll
+D:\Project\BL\obj\Debug\net7.0\refint\BL.dll
+D:\Project\BL\obj\Debug\net7.0\BL.pdb
+D:\Project\BL\obj\Debug\net7.0\ref\BL.dll
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.dll
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\refint\BL.dll
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.pdb
+H:\פרויקט סטאז\Project\BL\bin\Debug\net7.0\BL.deps.json
+H:\פרויקט סטאז\Project\BL\bin\Debug\net7.0\BL.dll
+H:\פרויקט סטאז\Project\BL\bin\Debug\net7.0\BL.pdb
+H:\פרויקט סטאז\Project\BL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט סטאז\Project\BL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\פרויקט סטאז\Project\BL\obj\Debug\net7.0\ref\BL.dll
+H:\Project\BL\bin\Debug\net7.0\BL.deps.json
+H:\Project\BL\bin\Debug\net7.0\BL.dll
+H:\Project\BL\bin\Debug\net7.0\BL.pdb
+H:\Project\BL\bin\Debug\net7.0\DAL.dll
+H:\Project\BL\bin\Debug\net7.0\DAL.pdb
+H:\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+H:\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+H:\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+H:\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+H:\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+H:\Project\BL\obj\Debug\net7.0\BL.dll
+H:\Project\BL\obj\Debug\net7.0\refint\BL.dll
+H:\Project\BL\obj\Debug\net7.0\BL.pdb
+H:\Project\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\זלצר יוכבד\Project\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\זלצר יוכבד\Project\BL\bin\Debug\net7.0\BL.dll
+C:\Users\זלצר יוכבד\Project\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\זלצר יוכבד\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.dll
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\זלצר יוכבד\Project\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\The user\Desktop\Project\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\The user\Desktop\Project\BL\bin\Debug\net7.0\BL.dll
+C:\Users\The user\Desktop\Project\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\The user\Desktop\Project\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.sourcelink.json
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.dll
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\The user\Desktop\Project\BL\obj\Debug\net7.0\ref\BL.dll
+C:\Users\The user\Desktop\Project\serverSide\BL\bin\Debug\net7.0\BL.deps.json
+C:\Users\The user\Desktop\Project\serverSide\BL\bin\Debug\net7.0\BL.dll
+C:\Users\The user\Desktop\Project\serverSide\BL\bin\Debug\net7.0\BL.pdb
+C:\Users\The user\Desktop\Project\serverSide\BL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\serverSide\BL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.AssemblyInfo.cs
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.sourcelink.json
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.csproj.CopyComplete
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.dll
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\refint\BL.dll
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\BL.pdb
+C:\Users\The user\Desktop\Project\serverSide\BL\obj\Debug\net7.0\ref\BL.dll

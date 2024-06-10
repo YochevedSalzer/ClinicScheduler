@@ -1,0 +1,199 @@
+H:\Project\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\Project\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\Project\Project\DAL\bin\Debug\net7.0\DAL.dll
+H:\Project\Project\DAL\bin\Debug\net7.0\DAL.pdb
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.dll
+H:\Project\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.pdb
+H:\Project\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\Project\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+H:\Project\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+H:\Project\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\Project\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\Project\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+H:\Project\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+H:\Project\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\Project\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+S:\HandesaimV\Public\חומר מהמורה\Group1\פרויקט סטאז\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\ברלין שולמית\Desktop\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\זלצר יוכבד\Desktop\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+D:\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+D:\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+D:\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\The user\Documents\GitHub\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\The user\Documents\GitHub\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\The user\Documents\GitHub\Project\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Documents\GitHub\Project\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\The user\Documents\GitHub\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.dll
+D:\BEH\Project\DAL\bin\Debug\net7.0\DAL.pdb
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.dll
+D:\BEH\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.pdb
+D:\BEH\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\BEH\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+D:\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+D:\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+D:\Project\DAL\bin\Debug\net7.0\DAL.dll
+D:\Project\DAL\bin\Debug\net7.0\DAL.pdb
+D:\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+D:\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+D:\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+D:\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+D:\Project\DAL\obj\Debug\net7.0\DAL.dll
+D:\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+D:\Project\DAL\obj\Debug\net7.0\DAL.pdb
+D:\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+D:\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\פרויקט סטאז\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\פרויקט סטאז\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\פרויקט סטאז\Project\DAL\bin\Debug\net7.0\DAL.dll
+H:\פרויקט סטאז\Project\DAL\bin\Debug\net7.0\DAL.pdb
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.dll
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.pdb
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\פרויקט סטאז\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+H:\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+H:\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+H:\Project\DAL\bin\Debug\net7.0\DAL.dll
+H:\Project\DAL\bin\Debug\net7.0\DAL.pdb
+H:\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+H:\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+H:\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+H:\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+H:\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+H:\Project\DAL\obj\Debug\net7.0\DAL.dll
+H:\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+H:\Project\DAL\obj\Debug\net7.0\DAL.pdb
+H:\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+H:\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\זלצר יוכבד\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\The user\Desktop\Project\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\The user\Desktop\Project\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\The user\Desktop\Project\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\The user\Desktop\Project\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\The user\Desktop\Project\serverSide\DAL\bin\Debug\net7.0\DAL.deps.json
+C:\Users\The user\Desktop\Project\serverSide\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\The user\Desktop\Project\serverSide\DAL\bin\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\serverSide\DAL\bin\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.sourcelink.json
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.dll
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\refint\DAL.dll
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.pdb
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
+C:\Users\The user\Desktop\Project\serverSide\DAL\obj\Debug\net7.0\ref\DAL.dll
